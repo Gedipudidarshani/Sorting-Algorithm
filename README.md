@@ -55,6 +55,5 @@ print(list_of_nums)
 ## Output:
 ![solution](output1.png)
 ![solution](output2.png)
-
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
